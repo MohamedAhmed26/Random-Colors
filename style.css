@@ -51,6 +51,9 @@ body {
 }
 
 @media (max-width: 425px) {
+    .parent {
+        margin-top: 50px;
+    }
     #color {
         width: 80%;
         height: 300px;
